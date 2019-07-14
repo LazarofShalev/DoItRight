@@ -1,6 +1,5 @@
 # DoItRight
 
-Do It Right - iOS
 Do It Right is a ToDo iOS application, you can create categories and for each category create Items (objectives), once objective is completed it can be marked/deleted.
 
 **Technologies**
