@@ -4,6 +4,7 @@ Do It Right - iOS
 Do It Right is a ToDo iOS application, you can create categories and for each category create Items (objectives), once objective is completed it can be marked/deleted.
 
 **Technologies**
+
 *FrontEnd
 - Xcode Tools in order to build a GUI - Lists, UIView's, Custom buttons etc. 
 - ChameleonFramework CocoaPod - color framework for iOS (Objective-C & Swift).
