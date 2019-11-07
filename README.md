@@ -8,7 +8,7 @@ Do It Right is a ToDo iOS application, you can create categories and for each ca
 - SwipeCellKit CocoaPod - Swipeable UITableViewCell/UICollectionViewCell in order to implement delete and swipe for delete.
 - Realm Database - CRUD operations, users data save locally on device.
 
-*The application is optimized both for iPhone and iPad
+*Optimized for iPhone and iPad
 
 ![](https://github.com/LazarofShalev/DoItRight/blob/master/ScreenShots/צילום%20מסך%202019-07-14%20ב-13.08.10.png)
 
